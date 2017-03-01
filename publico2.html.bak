@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta  http-equiv="content-type"  content="application/xhtml+xml; charset=utf-8" />
+    <title>Estudio Bonthuis Richarte</title>
+    <meta  content=""  name="keywords" />
+    <meta  content=""  name="description" />
+    <link  media="screen"  type="text/css"  rel="stylesheet"  href="styles.css" />
+  </head>
+  <body>
+    <div  id="content">
+      <!-- header -->
+      <div  id="headertop">
+        <div  id="menu">
+          <ul>
+            <li  id="button1"><a  title=""  href="index.html">Inicio</a></li>
+            <li  id="button2"><a  title=""  href="penal.html">Penal</a></li>
+            <li  id="button3"><a  title=""  href="civil.html">Civil</a></li>
+            <li  id="button4"><a  title=""  href="publico1.html">Publico</a></li>
+            <li  id="button5"><a  title=""  href="publico2.html">Contacto</a></li>
+          </ul>
+        </div>
+        <div  id="logo">
+          <h1><a  style="text-transform:uppercase;"  href="#">Estudio B&amp;R
+              Abogados<br />
+            </a></h1>
+          <h2><a  href="#">La justicia ante todo<br />
+            </a></h2>
+        </div>
+      </div>
+      <div  id="header"  style="height: 223px;">
+        <div  id="logform">
+          <div  id="search">
+            <form  action=""  method="get">
+              <fieldset> </fieldset>
+            </form>
+          </div>
+        </div>
+        <!-- / search --> </div>
+      <!-- / header -->
+      <!-- content -->
+      <div  id="main"  style="margin-top: 7px;">
+        <div  id="leftcon">
+          <h5  style="height: 24px;">Contacto</h5>
+          <img  style="padding-right: 10px; padding-bottom: 10px; float:left;"  alt=""
+             title=""  src="images/img01.jpg" /><span  style="font-weight: bold;">Telefonos:</span><br />
+          <br />
+          Dr. Federico Bonthuis:<br />
+          <br />
+          1555131195<br />
+          <br />
+          Dra. Fabiana Richarte:<br />
+          <br />
+          1520226012<br />
+          <br />
+          <span  style="font-weight: bold;">Emergencias Penales (24 hs):</span><br />
+          <br />
+          Linea (011) 20581613<br />
+          <br />
+          Celular 011-1552485979<br />
+          <br />
+          Mail: estudiojusticiaya@gmail.com<br />
+          <div  class="readl"><a  href="#"><br />
+            </a></div>
+        </div>
+        <!-- / content --> </div>
+      <!-- footer -->
+      <div  id="footer">
+        <p><span  style="text-decoration: underline;">2016 Buenos Aires CABA </span><br />
+          <a  title="This page validates as CSS"  href="http://jigsaw.w3.org/css-validator/check/referer"><abbr
+               title="Cascading Style Sheets"></abbr></a></p>
+        <p>Design by <span  style="text-decoration: underline;">AianaSoft</span></p>
+        <p>Tel. 20581613 Lunes a Viernes de 9 a 18 hs - Liniers</p>
+      </div>
+      <!-- / footer --> </div>
+  </body>
+</html>

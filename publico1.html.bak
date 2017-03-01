@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta  http-equiv="content-type"  content="application/xhtml+xml; charset=utf-8" />
+    <title>Estudio Bonthuis Richarte</title>
+    <meta  name="keywords"  content="" />
+    <meta  name="description"  content="" />
+    <link  href="styles.css"  rel="stylesheet"  type="text/css"  media="screen" />
+  </head>
+  <body>
+    <div  id="content">
+      <!-- header -->
+      <div  id="headertop">
+        <div  id="menu">
+          <ul>
+            <li  id="button1"><a  href="index.html"  title="">Inicio</a></li>
+            <li  id="button2"><a  href="penal.html"  title="">Penal</a></li>
+            <li  id="button3"><a  href="civil.html"  title="">Civil</a></li>
+            <li  id="button4"><a  href="publico1.html"  title="">Publico1</a></li>
+            <li  id="button5"><a  href="publico2.html"  title="">Publico2</a></li>
+          </ul>
+        </div>
+        <div  id="logo">
+          <h1><a  href="#"  style="text-transform:uppercase;">Estudio B&amp;R
+              Abogados<br />
+            </a></h1>
+          <h2><a  href="#">Area publica<br />
+            </a></h2>
+        </div>
+      </div>
+      <div  id="header">
+        <div  id="logform">
+          <div  id="log">
+            <h3><br />
+            </h3>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+          </div>
+          <div  id="search">
+            <form  method="get"  action="">
+              <fieldset> </fieldset>
+            </form>
+          </div>
+        </div>
+        <!-- / search --> </div>
+      <!-- / header -->
+      <!-- content -->
+      <div  id="main">
+        <div  id="leftcon">
+          <h5>Quienes somos</h5>
+          <p>Mauris id lectus nibh, vitae laoreet ante. Class aptent taciti
+            sociosqu ad litora torquent per conubia nostra, per inceptos
+            himenaeos.</p>
+          <img  src="images/img01.jpg"  title=""  alt=""  style="padding-right: 10px; padding-bottom: 10px; float:left;" />
+          <p>Aliquam consequat faucibus ornare. Curabitur convallis dolor nec
+            dui laoreet a tempus mi bibendum. Curabitur auctor, felis eget
+            tempor laoreet, tellus metus ornare lacus, suscipit tempus arcu nibh
+            vitae risus. Ut ac vulputate felis. Sed condimentum pulvinar lectus,
+            id convallis lacus vestibulum a. Cum sociis natoque penatibus et
+            magnis dis parturient montes, nascetur ridiculus mus.</p>
+          <p> Aliquam sit amet nulla est, at pellentesque mi. Mauris id lectus
+            nibh, vitae laoreet ante. Class aptent taciti sociosqu ad litora
+            torquent per conubia nostra, per inceptos himenaeos. Sed faucibus
+            placerat odio sit amet ultrices. Aenean vitae elit lorem, vitae
+            aliquet velit. Cras eros quam, elementum non fermentum vitae,
+            rhoncus sed justo. Fusce fringilla risus in eros ullamcorper semper
+            at non nisi.</p>
+          <h5>NUESTRA ETICA PROFESIONAL</h5>
+          <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod
+            tincidunt ut laoreet dolore magna aliquam erat.</p>
+          <p>Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+            euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut
+            wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
+            suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis
+            autemr in hendrerit in vulputate velit esse molestie consequat. Duis
+            autem vel eum iriure dolor in hendrerit in vulputate velit esse
+            molestie consequat...</p>
+          <div  class="readl"><a  href="#">read more</a></div>
+          <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod
+            tincidunt ut laoreet dolore magna aliquam erat.</p>
+          <p>Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+            euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut
+            wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
+            suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis
+            autemr in hendrerit in vulputate velit esse molestie consequat. Duis
+            autem vel eum iriure dolor in hendrerit in vulputate velit esse
+            molestie consequat...</p>
+          <div  class="readl"><a  href="#">read more</a></div>
+        </div>
+        <div  id="rightcon">
+          <h4>Company News</h4>
+          <ul>
+            <li> <a  href="#">Sed quis tristique sapien. Sed adipiscing ante
+                eget nisl pretium condimentum.</a>
+              <p>Praesent aliquet purus vitae mauris venenatis vehicula. Donec
+                interdum euismod erat, eget viverra justo pulvinar quis. Ut nec
+                dolor augue. Pellentesque sodales nulla eu orci blandit at
+                mattis ligula convallis. Fusce ornare mauris sit...</p>
+              <div  class="readl"><a  href="#">read more</a></div>
+            </li>
+            <li> <a  href="#">Sed quis tristique sapien. Sed adipiscing ante
+                eget nisl pretium condimentum.</a>
+              <p>Praesent aliquet purus vitae mauris venenatis vehicula. Donec
+                interdum euismod erat, eget viverra justo pulvinar quis. Ut nec
+                dolor augue. Pellentesque sodales nulla eu orci blandit at
+                mattis ligula convallis. Fusce ornare mauris sit...</p>
+              <div  class="readl"><a  href="#">read more</a></div>
+            </li>
+          </ul>
+        </div>
+        <!-- / content --> </div>
+      <!-- footer -->
+      <div  id="footer">
+        <p>Copyright 2010. <a  href="#">Privacy Policy</a> | <a  href="#">Terms
+            of Use</a> | <a  href="http://validator.w3.org/check/referer"  title="This page validates as XHTML 1.0 Transitional"><abbr
+               title="eXtensible HyperText Markup Language">XHTML</abbr></a> | <a
+             href="http://jigsaw.w3.org/css-validator/check/referer"  title="This page validates as CSS"><abbr
+               title="Cascading Style Sheets">CSS</abbr></a></p>
+        <p>Design by <a  href="http://www.flashtemplatesdesign.com/"  title="Free Flash Templates">Free
+            Flash Templates</a></p>
+        <p>Plantillas web profesionales gratuitas <a  href="http://www.mejoresplantillasgratis.es"
+             target="_blank">en www.mejoresplantillasgratis.es</a>.</p>
+      </div>
+      <!-- / footer --> </div>
+  </body>
+</html>

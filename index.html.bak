@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta  http-equiv="content-type"  content="application/xhtml+xml; charset=utf-8" />
+    <title>Estudio Bonthuis Richarte</title>
+    <meta  name="keywords"  content="" />
+    <meta  name="description"  content="" />
+    <link  href="styles.css"  rel="stylesheet"  type="text/css"  media="screen" />
+  </head>
+  <body>
+    <div  id="content">
+      <!-- header -->
+      <div  id="headertop">
+        <div  id="menu">
+          <ul>
+            <li  id="button1"><a  href="index.html"  title="">Inicio</a></li>
+            <li  id="button2"><a  href="penal.html"  title="">Penal</a></li>
+            <li  id="button3"><a  href="civil.html"  title="">Civil</a></li>
+            <li  id="button4"><a  href="publico1.html"  title="">Publico</a></li>
+            <li  id="button5"><a  href="publico2.html"  title="">Contacto</a></li>
+          </ul>
+        </div>
+        <div  id="logo">
+          <h1  href="#"  style="text-transform:uppercase;">Estudio B&amp;R
+            Abogados<br />
+            &gt;</h1>
+          <h2><a  href="#">La justicia ante todo<br />
+            </a></h2>
+        </div>
+      </div>
+      <div  style="height: 223px;"  id="header">
+        <div  id="logform">
+          <div  id="search">
+            <form  method="get"  action="">
+              <fieldset> </fieldset>
+            </form>
+          </div>
+        </div>
+        <!-- / search --> </div>
+      <!-- / header -->
+      <!-- content -->
+      <div  style="margin-top: 7px;"  id="main">
+        <div  id="leftcon">
+          <h5  style="height: 24px;">Quienes somos</h5>
+          <img  src="images/img01.jpg"  title=""  alt=""  style="padding-right: 10px; padding-bottom: 10px; float:left;" />La
+          Doctora Fabiana Andrea Richarte y el doctor Federico Guillermo
+          Bonthuis forman un equipo de profesionales con más de 20 años en el
+          derecho es decir, una extensa trayectoria en el ámbito del derecho y
+          asesoramiento jurídico tanto de particulares como la atención integral
+          de empresas (unipersonales y sociedades), contamos con letrados junior
+          los cuales pueden realizar trabajos judiciales de baja complejidad (la
+          ejecución de un cheque o pagare, la demanda por un despido etc). En
+          conjunto con nuestro ESTUDIO JURIDICO, nos ocupamos de todos los
+          aspectos judiciales y extrajudiciales, hacemos una suerte de derecho
+          preventivo a fines de eludir efectos indeseables basados en la NO
+          consulta a un ABOGADO, QUE PUEDE COSTARLE MAS CARO QUE LA CONSULTA EN
+          SI.  Problemas penales, societarios, comerciales y laborales pueden
+          ser resueltos con una simple actuación que  no demandara mucho tiempo.
+          También lo podemos asistir en procedimiento tributario y defensa penal
+          económica.<br />
+          <br />
+          <h5  style="margin-left: 206px;">NUESTRA ETICA PROFESIONAL</h5>
+          <br />
+          Una palabra difícil en los tiempos que vivimos, las relaciones humanas
+          han  mutado y la sociedad de consumo hace que las personas cometan
+          actos que en su afán de pertenecer a la sociedad de consumo dañen a
+          otros.<br />
+          Los abogados no somos ajenos a ello, nuestro Estudio Jurídico se
+          caracteriza por poner la ETICA, LA LEALTAD Y LA HONESTIDAD en la
+          resolución de los problemas de los justiciables antes que todo.<br />
+          La ética profesional marca pautas de conducta para el desempeño de las
+          funciones propias de un cargo dentro de un marco ético. En muchos
+          casos tratan temas de competencia y capacidad profesional, además de
+          temas específicos propios de cada área.<br />
+          Aunque la ética profesional utiliza valores universales del ser
+          humano, se centra en cómo son estos aplicables al entorno laboral.<br />
+          Se trata de un tema en continuo debate, especialmente cuando existen
+          conflictos éticos entre el desarrollo de una profesión y la conciencia
+          o ética personal. En determinadas situaciones se puede optar por la
+          objeción de conciencia cuando una persona no piensa que está actuando
+          de forma correcta.<br />
+          En el desarrollo de la profesión de Abogado existen una serie de
+          principios éticos basados en valores humanos. Los Colegios de Abogados
+          suelen tener algún tipo de documento en el que se recoge la ética
+          profesional.<br />
+          Aunque no son exclusivos de esta área laboral, algunos principios y
+          valores son de especial importancia como la justicia, la lealtad, la
+          veracidad, la diligencia y el secreto profesional.<br />
+          Nosotros somos fieles a nuestro juramento cuando allá por los años 90
+          hicimos nuestro juramento como Abogados de Defender cualquier causa
+          que sea justa según nuestra conciencia. Luego de reflexionar sobre el
+          significado de SER ABOGADO, llegue a la conclusión que mi moral me
+          impediría defender ciertas situaciones que entraran en colisión con mi
+          código moral, si bien moral y derecho van por caminos separados tal
+          como vías de ferrocarril. El “SER ABOGADO” ES MUY DISTINTO A “TRABAJAR
+          DE ABOGADOS”, en fin muchas personas cierran sus comercios y no llevan
+          sus problemas a sus casas o a sus familias. El “SER ABOGADO” SIGNIFICA
+          QUE CUMPLIMOS UNA FUNCION SOCIAL SOMOS ABOGADOS  24 HORAS AL DIA POR
+          MAS QUE NOS PESE. <br />
+          Por ello en base a nuestras normas de ETICA PROFESIONAL diversos casos
+          son analizados cuidadosamente antes de tomar la DEFENSA DE CIERTAS
+          CAUSAS QUE PUEDEN ENTRAR EN COLISION CON NUESTRAS CONCEPCIONES
+          MORALES.<br />
+          La lealtad frente a nuestro cliente hace que aunque sea dura su
+          situación judicial, digamos lo dura que es no utilicemos subterfugios
+          para tener un cliente, mas en nuestro Estudio, ser “Veraz” frente a
+          nuestro cliente es otra de nuestras cualidades profesionales. Así una
+          relación ABOGADO- CLIENTE  estará basada en normas Éticas y hará más
+          llevadera la situación de un pleito judicial que ya de por si es
+          difícil de afrontar para nuestro cliente. <br />
+          <br />
+              Un dicho muy cierto es que “NUESTRO SEÑOR JESUCRISTO HACIA LOS
+          MILAGROS PERO NO LOS ABOGADOS Y QUE LOS ABOGADOS PETICIONAMOS EN LA
+          JUSTICIA DE LOS HOMBRES PERO NO NUESTRO SALVADOR” la Justicia humana
+          por demás falible es ajena a los milagros de la religión, y somos
+          nosotros los<span  style="font-weight: bold;"> PROFESIONALES DEL
+            DERECHO LOS ENCARGADOS DE PETICIONAR A FAVOR DE NUESTROS CLIENTES,
+            SIEMPRE SEGÚN LAS REGLAS QUE NOS DICTE NUESTRA ETICA PROFESIONAL.</span><br />
+          <br />
+          <br />
+          <div  class="readl"><a  href="#"><br />
+            </a></div>
+        </div>
+        <!-- / content --> </div>
+      <!-- footer -->
+      <div  id="footer">
+        <p><span  style="text-decoration: underline;">2016 Buenos Aires CABA </span><br />
+          <a  href="http://jigsaw.w3.org/css-validator/check/referer"  title="This page validates as CSS"><abbr
+               title="Cascading Style Sheets"></abbr></a></p>
+        <p>Design by <span  style="text-decoration: underline;">AianaSoft</span></p>
+        <p>Tel. 20581613 Lunes a Viernes de 9 a 18 hs - Liniers</p>
+      </div>
+      <!-- / footer --> </div>
+  </body>
+</html>
